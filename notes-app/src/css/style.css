@@ -233,3 +233,10 @@ button:focus {
 .title:hover .fa-trash {
   visibility: visible;
 }
+
+.mde-tabs {
+  display: flex;
+  justify-content: space-around;
+  background-color: transparent;
+  margin: 10px 0px;
+}
